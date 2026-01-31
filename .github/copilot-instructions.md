@@ -1,13 +1,6 @@
 ## Using Bootstrap 5
-To use Bootstrap 5 for styling, add the following <link> tag to the <head> section of your index.html file, above your own CSS reference:
+To use Bootstrap 5.3.8 for styling, include the Bootstrap CSS in the <head> section of your index.html file, above your own CSS reference. To enable Bootstrap's interactive components (like modals, dropdowns, tooltips), include the Bootstrap JS bundle before the closing </body> tag. Refer to the official Bootstrap documentation for the latest CDN links and usage instructions. You can now use Bootstrap classes and interactive components in your HTML. For custom styles, continue to use style.css.
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-
-To enable Bootstrap's interactive components (like modals, dropdowns, tooltips), add the following JS bundle before the closing </body> tag:
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-
-You can now use Bootstrap classes and interactive components in your HTML. For custom styles, continue to use style.css.
 # Copilot Instructions for dougkillmer.github.io
 
 This repository is a simple personal website hosted via GitHub Pages. It consists of a single static HTML file: `index.html`.
