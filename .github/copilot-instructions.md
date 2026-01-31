@@ -1,11 +1,11 @@
 ## Using Bootstrap 5
 To use Bootstrap 5 for styling, add the following <link> tag to the <head> section of your index.html file, above your own CSS reference:
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ENjdO4Dr2bkBIFxQpeoA6VKHr8zWv1p3rZlPH0P0U5Fv5l9QQ9vv1F5VZ0W5y1N6" crossorigin="anonymous">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 
 To enable Bootstrap's interactive components (like modals, dropdowns, tooltips), add the following JS bundle before the closing </body> tag:
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-Q6Ea8q8tF7zQp1Qp6Q6Qp1Qp6Q6Qp1Qp6Q6Qp1Qp6Q6Qp1Qp6Q6Qp1Qp6Q6Qp1Qp" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 
 You can now use Bootstrap classes and interactive components in your HTML. For custom styles, continue to use style.css.
 # Copilot Instructions for dougkillmer.github.io
